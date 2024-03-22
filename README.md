@@ -1,6 +1,6 @@
 ### Opa tudo bem? :wrench: :computer:
 
-**Eu sou o Eduardo Almeida, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:**
+**Eu sou o Eduardo Almeida, e estou em fase de transição de carreira, atualmente estou estudando Programação com A devclub, Front End aprendendo e criando projetos com:**
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
