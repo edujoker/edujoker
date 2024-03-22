@@ -9,7 +9,7 @@
 
 - <a href="https://www.instagram.com/eduardo_almeidaoficial?igsh=dTJ6YXVtYnk5MjA="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> Me segue lá no isntagram 
 <br>
-<br>
+
 [![Eduardo stats](https://github-readme-stats.vercel.app/api?username=edujoker)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 [![Estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=edujoker)](https://github.com/anuraghazra/github-readme-stats)
